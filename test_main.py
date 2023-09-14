@@ -2,4 +2,4 @@ from main import returnSecondValue
 
 def test_sec():
     assert returnSecondValue("Lilly") == "i"
-    assert returnSecondValue(["q", "r", "s"]) == "r"
+    assert returnSecondValue([1, 2, 3]) == 2
