@@ -23,7 +23,7 @@ This make file will be used in future projects for this class and personal proje
 How to Use:
 
 1. Open Codespaces, allow for the environmenet to be set up
-2. Run the make commands: test, lint, and format
+2. Run the make commands: install, format, lint, test
 
 Example Results:
 
