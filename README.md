@@ -27,12 +27,12 @@ How to Use:
 
 Example Results:
 
-`Make Format`:
+`make format`:
 
 ![My Image](Make_Format_Success.png)
 
-`Make Lint`:
+`make lint`:
 ![My Image](Make_Lint_Success.png)
 
-`Make Test`:
+`make test`:
 ![My Image](Make_Test_Success.png)
