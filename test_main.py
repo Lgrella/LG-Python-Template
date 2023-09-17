@@ -1,5 +1,6 @@
-#test test_main.py
+# test test_main.py
 from main import returnSecondValue
+
 
 def test_sec():
     assert returnSecondValue("Lilly") == "i"
