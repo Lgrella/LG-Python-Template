@@ -24,3 +24,11 @@ How to Use:
 
 1. Open Codespaces, allow for the environmenet to be set up
 2. Run the make commands: test, lint, and format
+
+Example Results:
+
+`Make Format`:
+
+`Make Lint`:
+
+`Make Test`:
