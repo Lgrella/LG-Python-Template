@@ -29,6 +29,10 @@ Example Results:
 
 `Make Format`:
 
+![My Image](Make_Format_Success.png)
+
 `Make Lint`:
+![My Image](Make_Lint_Success.png)
 
 `Make Test`:
+![My Image](Make_Test_Success.png)
